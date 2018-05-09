@@ -1,0 +1,910 @@
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\cuda_runtime.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_config.h
+E:\software\VisualStudio2015\VC\include\crtdefs.h
+E:\software\VisualStudio2015\VC\include\vcruntime.h
+E:\software\VisualStudio2015\VC\include\sal.h
+E:\software\VisualStudio2015\VC\include\ConcurrencySal.h
+E:\software\VisualStudio2015\VC\include\vadefs.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt.h
+E:\software\VisualStudio2015\VC\include\vcruntime.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+E:\software\VisualStudio2015\VC\include\limits.h
+E:\software\VisualStudio2015\VC\include\vcruntime.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stddef.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\library_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\channel_descriptor.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\cuda_runtime_api.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\cuda_device_runtime_api.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\cuda_runtime_api.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_functions.hpp
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\common_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_memory.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\errno.h
+E:\software\VisualStudio2015\VC\include\vcruntime_string.h
+E:\software\VisualStudio2015\VC\include\vcruntime.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wtime.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\math_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+E:\software\VisualStudio2015\VC\include\cmath
+E:\software\VisualStudio2015\VC\include\yvals.h
+E:\software\VisualStudio2015\VC\include\xkeycheck.h
+E:\software\VisualStudio2015\VC\include\crtdefs.h
+E:\software\VisualStudio2015\VC\include\vcruntime.h
+E:\software\VisualStudio2015\VC\include\use_ansi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+E:\software\VisualStudio2015\VC\include\xtgmath.h
+E:\software\VisualStudio2015\VC\include\xtr1common
+E:\software\VisualStudio2015\VC\include\cstdlib
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\math_functions.hpp
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\math_functions_dbl_ptx3.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\math_functions_dbl_ptx3.hpp
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\cuda_surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\channel_descriptor.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\cuda_texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\channel_descriptor.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_functions.hpp
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_atomic_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_double_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_double_functions.hpp
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\sm_20_atomic_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\sm_32_atomic_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\sm_35_atomic_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\sm_32_atomic_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\sm_60_atomic_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\sm_20_intrinsics.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\sm_30_intrinsics.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\sm_32_intrinsics.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\sm_35_intrinsics.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\sm_32_intrinsics.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\sm_61_intrinsics.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\cuda_surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_fetch_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\cuda_texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_indirect_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_indirect_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\builtin_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\driver_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\surface_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\texture_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\host_defines.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_functions.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\device_launch_parameters.h
+e:\software\cuda8.0\nvidia gpu computing toolkit\include\vector_types.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\cuda_runtime.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\device_launch_parameters.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_stdio_config.h
+E:\zju_lesson\GPU\finalHomework\rayCasting\rayCasting\common\inc\helper_string.h
+E:\software\VisualStudio2015\VC\include\fstream
+E:\software\VisualStudio2015\VC\include\istream
+E:\software\VisualStudio2015\VC\include\ostream
+E:\software\VisualStudio2015\VC\include\ios
+E:\software\VisualStudio2015\VC\include\xlocnum
+E:\software\VisualStudio2015\VC\include\climits
+E:\software\VisualStudio2015\VC\include\cstdio
+E:\software\VisualStudio2015\VC\include\streambuf
+E:\software\VisualStudio2015\VC\include\xiosbase
+E:\software\VisualStudio2015\VC\include\xlocale
+E:\software\VisualStudio2015\VC\include\cstring
+E:\software\VisualStudio2015\VC\include\stdexcept
+E:\software\VisualStudio2015\VC\include\exception
+E:\software\VisualStudio2015\VC\include\type_traits
+E:\software\VisualStudio2015\VC\include\xstddef
+E:\software\VisualStudio2015\VC\include\cstddef
+E:\software\VisualStudio2015\VC\include\initializer_list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\malloc.h
+E:\software\VisualStudio2015\VC\include\vcruntime_exception.h
+E:\software\VisualStudio2015\VC\include\eh.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_terminate.h
+E:\software\VisualStudio2015\VC\include\xstring
+E:\software\VisualStudio2015\VC\include\xmemory0
+E:\software\VisualStudio2015\VC\include\cstdint
+E:\software\VisualStudio2015\VC\include\stdint.h
+E:\software\VisualStudio2015\VC\include\vcruntime.h
+E:\software\VisualStudio2015\VC\include\limits
+E:\software\VisualStudio2015\VC\include\ymath.h
+E:\software\VisualStudio2015\VC\include\cfloat
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\float.h
+E:\software\VisualStudio2015\VC\include\cwchar
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\sys/types.h
+E:\software\VisualStudio2015\VC\include\new
+E:\software\VisualStudio2015\VC\include\vcruntime_new.h
+E:\software\VisualStudio2015\VC\include\vcruntime.h
+E:\software\VisualStudio2015\VC\include\xutility
+E:\software\VisualStudio2015\VC\include\utility
+E:\software\VisualStudio2015\VC\include\iosfwd
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\crtdbg.h
+E:\software\VisualStudio2015\VC\include\vcruntime_new_debug.h
+E:\software\VisualStudio2015\VC\include\xatomic0.h
+E:\software\VisualStudio2015\VC\include\intrin.h
+E:\software\VisualStudio2015\VC\include\vcruntime.h
+E:\software\VisualStudio2015\VC\include\setjmp.h
+E:\software\VisualStudio2015\VC\include\vcruntime.h
+E:\software\VisualStudio2015\VC\include\immintrin.h
+E:\software\VisualStudio2015\VC\include\wmmintrin.h
+E:\software\VisualStudio2015\VC\include\nmmintrin.h
+E:\software\VisualStudio2015\VC\include\smmintrin.h
+E:\software\VisualStudio2015\VC\include\tmmintrin.h
+E:\software\VisualStudio2015\VC\include\pmmintrin.h
+E:\software\VisualStudio2015\VC\include\emmintrin.h
+E:\software\VisualStudio2015\VC\include\xmmintrin.h
+E:\software\VisualStudio2015\VC\include\mmintrin.h
+E:\software\VisualStudio2015\VC\include\ammintrin.h
+E:\software\VisualStudio2015\VC\include\typeinfo
+E:\software\VisualStudio2015\VC\include\vcruntime_typeinfo.h
+E:\software\VisualStudio2015\VC\include\vcruntime.h
+E:\software\VisualStudio2015\VC\include\xlocinfo
+E:\software\VisualStudio2015\VC\include\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\ctype.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\locale.h
+E:\software\VisualStudio2015\VC\include\xfacet
+E:\software\VisualStudio2015\VC\include\system_error
+E:\software\VisualStudio2015\VC\include\cerrno
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\share.h
+E:\software\VisualStudio2015\VC\include\string
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/host_vector.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/config.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/config/config.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/config/simple_defines.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/config/compiler.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\cuda.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/config/host_system.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/config/device_system.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/config/host_device.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/config/debug.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/config/compiler_fence.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/config/forceinline.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/config/exec_check_disable.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/config/global_workarounds.h
+E:\software\VisualStudio2015\VC\include\memory
+E:\software\VisualStudio2015\VC\include\xmemory
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/vector_base.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/normal_iterator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/iterator_adaptor.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/iterator_facade.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/type_traits.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/type_traits/has_trivial_assign.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/iterator_facade_category.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/host_system_tag.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/execution_policy.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/execution_policy.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/execution_policy.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/device_system_tag.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/execution_policy.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/any_system_tag.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/iterator_categories.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/iterator_category_with_system_and_traversal.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/iterator_traversal_tags.h
+E:\software\VisualStudio2015\VC\include\iterator
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/universal_categories.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/is_iterator_category.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/iterator_category_to_traversal.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/iterator_category_to_system.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/distance_from_result.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/use_default.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/iterator_adaptor_base.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/iterator_traits.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/iterator_traits.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/is_trivial_iterator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/type_traits/pointer_traits.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/type_traits/is_metafunction_defined.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/type_traits/has_nested_type.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/reverse_iterator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/reverse_iterator_base.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/reverse_iterator.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/contiguous_storage.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/allocator/allocator_traits.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/type_traits/has_member_function.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/allocator/allocator_traits.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/type_traits/is_call_possible.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/integer_traits.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/contiguous_storage.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/swap.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/allocator/copy_construct_range.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/allocator/copy_construct_range.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/copy.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/copy.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/select_system.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/minimum_system.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/type_traits/minimum_type.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/type_traits.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/copy.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/tag.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/copy.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/functional.h
+E:\software\VisualStudio2015\VC\include\functional
+E:\software\VisualStudio2015\VC\include\xfunctional
+E:\software\VisualStudio2015\VC\include\tuple
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/functional/placeholder.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/functional/actor.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/tuple.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/tuple.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/pair.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/pair.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/functional/value.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/functional/composite.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/functional/operators/assignment_operator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/functional/operators/operator_adaptors.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/type_traits/result_of_adaptable_function.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/type_traits/function_traits.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/functional/actor.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/functional/argument.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/functional.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/functional/operators.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/functional/operators/arithmetic_operators.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/functional/operators/relational_operators.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/functional/operators/logical_operators.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/functional/operators/bitwise_operators.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/functional/operators/compound_assignment_operators.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/internal_functional.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/tuple_of_iterator_references.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/reference_forward_declaration.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/raw_reference_cast.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/raw_pointer_cast.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/tuple_transform.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/tuple_meta_transform.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/transform.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/transform.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/transform.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/transform.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/for_each.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/for_each.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/for_each.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/static_assert.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/for_each.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/for_each.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/function.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/for_each.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/for_each.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/for_each.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/distance.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/distance.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/advance.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/advance.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/advance.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/advance.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/distance.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/distance.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/bulk.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/config.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/version.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/execution_policy.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/future.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/guarded_cuda_runtime_api.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\cuda_runtime_api.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/throw_on_error.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/terminate.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system_error.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/error_code.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/errno.h
+E:\software\VisualStudio2015\VC\include\iostream
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/error_category.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/error_code.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/error_condition.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/system_error.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/system_error.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/error.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/guarded_driver_types.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\driver_types.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/error.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/guarded_cuda_runtime_api.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\cuda_runtime_api.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/runtime_introspection.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/cuda_launch_config.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/minmax.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/runtime_introspection.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/util/blocking.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/choose_sizes.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/choose_sizes.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/closure.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/apply_from_tuple.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/cuda_launcher.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/alignment.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/cuda_task.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/malloc.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/pointer_traits.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/uninitialized.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/tuple_transform.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/tuple_meta_transform.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/triple_chevron_launcher.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/parameter_ptr.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/synchronize.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/async.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/cstdint.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/async.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/algorithm.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/algorithm/copy.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/is_contiguous_iterator.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/algorithm/reduce.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/iterator/strided_iterator.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/algorithm/scan.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/algorithm/accumulate.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/type_traits/iterator/is_output_iterator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/any_assign.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/algorithm/merge.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/algorithm/gather.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/permutation_iterator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/permutation_iterator_base.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/counting_iterator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/counting_iterator.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/numeric_traits.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/join_iterator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/algorithm/scatter.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/algorithm/adjacent_difference.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/algorithm/reduce_by_key.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/head_flags.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/transform_iterator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/transform_iterator.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/zip_iterator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/zip_iterator_base.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/minimum_category.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/zip_iterator.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/detail/tail_flags.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/algorithm/sort.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/algorithm/detail/stable_merge_sort.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/bulk/iterator.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/seq.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/execute_with_allocator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/execute_on_stream.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/transform.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/transform.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/transform.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/transform.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/copy.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/copy.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/copy.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/dispatch/is_trivial_copy.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/general_copy.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/trivial_copy.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/copy.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/copy.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/copy.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/copy_device_to_device.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/copy_device_to_device.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/copy_cross_system.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/copy_cross_system.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/temporary_array.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/tagged_iterator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/allocator/temporary_allocator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/allocator/tagged_allocator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/allocator/tagged_allocator.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/memory.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/pointer.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/pointer.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/reference.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/reference.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/memory.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/memory.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/malloc_and_free.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/malloc_and_free.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/malloc_and_free.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/malloc_and_free.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/bad_alloc.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/throw_on_error.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/malloc_and_free.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/get_value.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/get_value.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/get_value.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/get_value.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/assign_value.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/assign_value.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/assign_value.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/assign_value.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/iter_swap.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/iter_swap.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/iter_swap.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/iter_swap.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/swap.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/swap.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/swap_ranges.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/swap_ranges.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/swap_ranges.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/swap_ranges.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/swap_ranges.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/swap_ranges.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/swap_ranges.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/temporary_buffer.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/temporary_buffer.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/temporary_buffer.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/temporary_buffer.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/temporary_buffer.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/temporary_buffer.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/temporary_buffer.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/allocator/temporary_allocator.inl
+E:\software\VisualStudio2015\VC\include\cassert
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\assert.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/allocator/no_throw_allocator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/temporary_array.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/trivial_copy.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/trivial_copy.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/trivial_copy.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/synchronize.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/synchronize.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/trivial_copy.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/allocator/default_construct_range.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/allocator/default_construct_range.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/uninitialized_fill.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/uninitialized_fill.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/uninitialized_fill.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/uninitialized_fill.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/fill.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/fill.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/fill.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/generate.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/generate.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/generate.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/generate.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/generate.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/generate.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/generate.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/generate.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/fill.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/fill.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/fill.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/fill.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/uninitialized_fill.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/uninitialized_fill.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/uninitialized_fill.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/uninitialized_fill.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/allocator/destroy_range.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/allocator/destroy_range.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/allocator/fill_construct_range.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/allocator/fill_construct_range.inl
+E:\software\VisualStudio2015\VC\include\vector
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/vector_base.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/overlapped_copy.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/equal.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/equal.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/equal.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/equal.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/mismatch.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/mismatch.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/mismatch.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/mismatch.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/find.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/find.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/find.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/find.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/reduce.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/reduce.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/reduce.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/reduce.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/reduce_by_key.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/reduce_by_key.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/scatter.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/scatter.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/scatter.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/scatter.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/scatter.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/scatter.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/scatter.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/scatter.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/scan.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/scan.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/scan.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/scan.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/scan_by_key.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/scan_by_key.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/replace.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/replace.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/replace.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/replace.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/replace.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/replace.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/replace.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/replace.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/scan.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/scan.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/scan.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/scan.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/scan.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/decomposition.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/scan_by_key.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/scan_by_key.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/scan_by_key.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/scan_by_key.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/reduce.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/reduce.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/reduce.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/reduce.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/reduce.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/reduce_by_key.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/reduce_by_key.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/type_traits/algorithm/intermediate_type_from_function_and_iterators.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/reduce_by_key.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/reduce_by_key.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/reduce_by_key.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/constant_iterator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/constant_iterator_base.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/discard_iterator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/iterator/detail/discard_iterator_base.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/range/head_flags.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/range/tail_flags.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/reduce_intervals.hpp
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/find.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/find.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/find.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/find.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/mismatch.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/mismatch.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/mismatch.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/mismatch.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/equal.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/equal.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/equal.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/equal.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/host_vector.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/device_vector.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/device_malloc_allocator.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/device_ptr.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/memory.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/device_ptr.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/device_reference.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/device_reference.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/device_malloc.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/device_malloc.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/device_free.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/device_free.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/device_vector.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/count.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/count.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/count.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/count.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/transform_reduce.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/detail/transform_reduce.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/transform_reduce.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/generic/transform_reduce.inl
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/transform_reduce.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/transform_reduce.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/transform_reduce.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/transform_reduce.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/adl/count.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/detail/sequential/count.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cpp/detail/count.h
+E:\software\cuda8.0\NVIDIA GPU Computing Toolkit\include\thrust/system/cuda/detail/count.h
+E:\zju_lesson\GPU\finalHomework\rayCasting\rayCasting\common\GL/glut.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winapifamily.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/glu.h
+E:\zju_lesson\GPU\finalHomework\rayCasting\rayCasting\common\GL/glext.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\windows.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\sdkddkver.h
+E:\software\VisualStudio2015\VC\include\excpt.h
+E:\software\VisualStudio2015\VC\include\vcruntime.h
+E:\software\VisualStudio2015\VC\include\stdarg.h
+E:\software\VisualStudio2015\VC\include\vcruntime.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\windef.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\specstrings.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\specstrings_strict.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\specstrings_undef.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\driverspecs.h
+c:\program files (x86)\windows kits\8.1\include\shared\sdv_driverspecs.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\guiddef.h
+c:\program files (x86)\windows kits\8.1\include\shared\pshpack4.h
+c:\program files (x86)\windows kits\8.1\include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+c:\program files (x86)\windows kits\8.1\include\shared\pshpack4.h
+c:\program files (x86)\windows kits\8.1\include\shared\pshpack2.h
+c:\program files (x86)\windows kits\8.1\include\shared\poppack.h
+c:\program files (x86)\windows kits\8.1\include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+c:\program files (x86)\windows kits\8.1\include\shared\poppack.h
+c:\program files (x86)\windows kits\8.1\include\shared\pshpack8.h
+c:\program files (x86)\windows kits\8.1\include\shared\poppack.h
+c:\program files (x86)\windows kits\8.1\include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winbase.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\processenv.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\bemapiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnls.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnls.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\wincon.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winver.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winreg.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\reason.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsvc.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\mcx.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\imm.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\ime_cmodes.h
